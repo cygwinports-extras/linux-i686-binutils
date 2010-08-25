@@ -1,0 +1,5 @@
+category: Devel
+requires: libintl8 zlib0
+sdesc: "Binutils for Linux i686 toolchain"
+ldesc: "Assember, linker, and other binary utilities required for the
+i686-Linux cross-compiling toolchain"
